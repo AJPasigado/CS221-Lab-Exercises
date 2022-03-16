@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=a
+comment0.target=Node(java.lang.String)
+comment1.params=a
+comment1.target=void\ addNeighbor(int)
+comment2.params=a
+comment2.target=void\ addWeight(int)
+comment3.params=
+comment3.target=java.util.ArrayList\ getNeighbors()
+comment4.params=
+comment4.target=java.util.ArrayList\ getWeight()
+numComments=5
